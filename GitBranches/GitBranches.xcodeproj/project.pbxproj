@@ -13,6 +13,7 @@
 		AE3746C9208A0BA500E9A9ED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE3746C8208A0BA500E9A9ED /* Assets.xcassets */; };
 		AE3746CC208A0BA500E9A9ED /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE3746CA208A0BA500E9A9ED /* LaunchScreen.storyboard */; };
 		AE3746D4208A0BDD00E9A9ED /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE3746D3208A0BDD00E9A9ED /* LoginViewController.swift */; };
+		AE3746D6208A0C9400E9A9ED /* ForgetPasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE3746D5208A0C9400E9A9ED /* ForgetPasswordViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AE3746CB208A0BA500E9A9ED /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AE3746CD208A0BA500E9A9ED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AE3746D3208A0BDD00E9A9ED /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		AE3746D5208A0C9400E9A9ED /* ForgetPasswordViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForgetPasswordViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				AE3746C1208A0BA500E9A9ED /* AppDelegate.swift */,
 				AE3746D3208A0BDD00E9A9ED /* LoginViewController.swift */,
 				AE3746C3208A0BA500E9A9ED /* ViewController.swift */,
+				AE3746D5208A0C9400E9A9ED /* ForgetPasswordViewController.swift */,
 				AE3746C5208A0BA500E9A9ED /* Main.storyboard */,
 				AE3746C8208A0BA500E9A9ED /* Assets.xcassets */,
 				AE3746CA208A0BA500E9A9ED /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			files = (
 				AE3746D4208A0BDD00E9A9ED /* LoginViewController.swift in Sources */,
 				AE3746C4208A0BA500E9A9ED /* ViewController.swift in Sources */,
+				AE3746D6208A0C9400E9A9ED /* ForgetPasswordViewController.swift in Sources */,
 				AE3746C2208A0BA500E9A9ED /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
