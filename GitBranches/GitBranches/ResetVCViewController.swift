@@ -1,5 +1,5 @@
 //
-//  LoginViewController.swift
+//  ResetVCViewController.swift
 //  GitBranches
 //
 //  Created by Bilawal Liaqat on 20/04/2018.
@@ -8,17 +8,12 @@
 
 import UIKit
 
-class LoginViewController: UIViewController {
+class ResetVCViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
-        
-        
-        print("bilawal")
-        print("bilawal")
-        print("bilawal")
     }
 
     override func didReceiveMemoryWarning() {
