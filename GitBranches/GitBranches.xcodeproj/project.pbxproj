@@ -17,6 +17,7 @@
 		AE3746D4208A0BDD00E9A9ED /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE3746D3208A0BDD00E9A9ED /* LoginViewController.swift */; };
 		AE3746D6208A0C9400E9A9ED /* ForgetPasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE3746D5208A0C9400E9A9ED /* ForgetPasswordViewController.swift */; };
 		AE3746D8208A0E1F00E9A9ED /* ResetVCViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE3746D7208A0E1F00E9A9ED /* ResetVCViewController.swift */; };
+		AE37470C208A1E8D00E9A9ED /* ReviewVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE37470B208A1E8D00E9A9ED /* ReviewVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		AE3746D3208A0BDD00E9A9ED /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		AE3746D5208A0C9400E9A9ED /* ForgetPasswordViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForgetPasswordViewController.swift; sourceTree = "<group>"; };
 		AE3746D7208A0E1F00E9A9ED /* ResetVCViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResetVCViewController.swift; sourceTree = "<group>"; };
+		AE37470B208A1E8D00E9A9ED /* ReviewVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReviewVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				3A1ED874208A0E7700E47E58 /* HomeVC.swift */,
 				AE3746D3208A0BDD00E9A9ED /* LoginViewController.swift */,
 				3A1ED870208A0C8C00E47E58 /* RegisterVC.swift */,
+				AE37470B208A1E8D00E9A9ED /* ReviewVC.swift */,
 				AE3746D7208A0E1F00E9A9ED /* ResetVCViewController.swift */,
 				AE3746C3208A0BA500E9A9ED /* ViewController.swift */,
 				AE3746D5208A0C9400E9A9ED /* ForgetPasswordViewController.swift */,
@@ -155,6 +158,7 @@
 				3A1ED871208A0C8C00E47E58 /* RegisterVC.swift in Sources */,
 				AE3746C4208A0BA500E9A9ED /* ViewController.swift in Sources */,
 				3A1ED875208A0E7700E47E58 /* HomeVC.swift in Sources */,
+				AE37470C208A1E8D00E9A9ED /* ReviewVC.swift in Sources */,
 				AE3746D6208A0C9400E9A9ED /* ForgetPasswordViewController.swift in Sources */,
 				AE3746C2208A0BA500E9A9ED /* AppDelegate.swift in Sources */,
 				AE3746D8208A0E1F00E9A9ED /* ResetVCViewController.swift in Sources */,
